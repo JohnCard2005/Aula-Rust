@@ -1,5 +1,5 @@
 fn main(){
- println!("Sequencia de fibonassi");
+ println!("Sequencia de fibonacci");
 
  let mut anterior: i32 = 0;
  let mut atual: i32 = 1;
